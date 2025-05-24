@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+matplotlib
+torch 
+torchvision 
+timm 
+transformers
+einops
+numpy
+pandas
+
